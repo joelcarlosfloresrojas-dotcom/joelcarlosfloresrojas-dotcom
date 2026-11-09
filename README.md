@@ -2,7 +2,6 @@
 
 ### Software Development Student & Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelcarlosfloresrojas-dotcom&label=Profile views&color=0e75b6&style=flat" alt="joelcarlosfloresrojas-dotcom" /> </p>
 
 - 🔭 I'm currently working on **Responsive web applications and interactive web tools**
 
